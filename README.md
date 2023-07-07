@@ -4,8 +4,11 @@ App killed state icon colour issue
 Steps to reproduce
 
 Kill the from recent state
+
 Fetch token from Logcat
+
 Send the push notification from Postman using following data 
+
 
   curl --location 'https://fcm.googleapis.com/fcm/send' \
 --header 'Content-Type: application/json' \
@@ -29,4 +32,5 @@ Send the push notification from Postman using following data
 }'
 
 Send Postman request
+
 Obseve push notification icon is of different color which was set in Manifest. 
