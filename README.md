@@ -33,4 +33,4 @@ Send the push notification from Postman using following data
 
 Send Postman request
 
-Obseve push notification icon is of different color which was set in Manifest. 
+Observe push notification icon is of different color which was set in Manifest. 
