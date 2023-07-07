@@ -1,0 +1,155 @@
+{
+  "project_info": {
+    "project_number": "172532119138",
+    "firebase_url": "https://samsung-one-app.firebaseio.com",
+    "project_id": "samsung-one-app",
+    "storage_bucket": "samsung-one-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:172532119138:android:fb6b7616c9ec427f28033b",
+        "android_client_info": {
+          "package_name": "com.samsung.uk.samsung.one"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "172532119138-rcq4h7872s7qn7chtcd2irv594slcjle.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjIE9wTtdwJztf6NnBlLODpg9Drr-mG7I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "172532119138-rcq4h7872s7qn7chtcd2irv594slcjle.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "172532119138-1006gtuq7kfd5clcl4sgj9po5vf71s8q.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.test.app"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:172532119138:android:5a6aa24f2e9f5f7128033b",
+        "android_client_info": {
+          "package_name": "com.samsung.uk.samsung.one.develop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "172532119138-rcq4h7872s7qn7chtcd2irv594slcjle.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjIE9wTtdwJztf6NnBlLODpg9Drr-mG7I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "172532119138-rcq4h7872s7qn7chtcd2irv594slcjle.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "172532119138-1006gtuq7kfd5clcl4sgj9po5vf71s8q.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.test.app"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:172532119138:android:085aa3053d1c3b6928033b",
+        "android_client_info": {
+          "package_name": "com.samsung.uk.samsung.one.stage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "172532119138-rcq4h7872s7qn7chtcd2irv594slcjle.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjIE9wTtdwJztf6NnBlLODpg9Drr-mG7I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "172532119138-rcq4h7872s7qn7chtcd2irv594slcjle.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "172532119138-1006gtuq7kfd5clcl4sgj9po5vf71s8q.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.test.app"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:172532119138:android:e6116b0e4e0e3a0428033b",
+        "android_client_info": {
+          "package_name": "com.samsung.uk.samsung.one.uat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "172532119138-rcq4h7872s7qn7chtcd2irv594slcjle.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjIE9wTtdwJztf6NnBlLODpg9Drr-mG7I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "172532119138-rcq4h7872s7qn7chtcd2irv594slcjle.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "172532119138-1006gtuq7kfd5clcl4sgj9po5vf71s8q.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.test.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
